@@ -10,7 +10,6 @@ Release:	%{release}
 license:	GPL
 Group:		Networking/Other
 Source0:	http://www.vergenet.net/linux/fake/download/%{version}/%{name}-%{version}.tar.bz2
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 URL:		http://www.vergenet.net/linux/fake/
 
 %description
