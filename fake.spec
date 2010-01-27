@@ -1,6 +1,6 @@
 %define	name	fake
-%define	version	1.1.10
-%define rel	4
+%define	version	1.1.11
+%define rel	1
 %define	release	%mkrel %{rel}
 
 Summary: 	Switches in redundant servers using arp spoofing
@@ -9,8 +9,7 @@ Version:	%{version}
 Release:	%{release}
 license:	GPL
 Group:		Networking/Other
-Source0:	http://www.vergenet.net/linux/fake/download/%{version}/%{name}-%{version}.tar.bz2
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
+Source0:	http://www.vergenet.net/linux/fake/download/%{version}/%{name}-%{version}.tar.gz
 URL:		http://www.vergenet.net/linux/fake/
 
 %description
