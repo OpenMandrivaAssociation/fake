@@ -9,6 +9,7 @@ Version:	%{version}
 Release:	%{release}
 license:	GPL
 Group:		Networking/Other
+BuildRoot: %{_tmppath}/%{name}-%{version}
 Source0:	http://www.vergenet.net/linux/fake/download/%{version}/%{name}-%{version}.tar.gz
 URL:		http://www.vergenet.net/linux/fake/
 
