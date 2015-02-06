@@ -1,7 +1,7 @@
 Summary:	Switches in redundant servers using arp spoofing
 Name:		fake
 Version:	1.1.11
-Release:	3
+Release:	4
 License:	GPLv2+
 Group:		Networking/Other
 Url:		http://www.vergenet.net/linux/fake/
