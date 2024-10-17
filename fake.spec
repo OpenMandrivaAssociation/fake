@@ -4,7 +4,7 @@ Version:	1.1.11
 Release:	4
 License:	GPLv2+
 Group:		Networking/Other
-Url:		http://www.vergenet.net/linux/fake/
+Url:		https://www.vergenet.net/linux/fake/
 Source0:	http://www.vergenet.net/linux/fake/download/%{version}/%{name}-%{version}.tar.gz
 
 %description
