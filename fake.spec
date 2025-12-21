@@ -7,6 +7,7 @@ Group:		Networking/Other
 Url:		https://www.vergenet.net/linux/fake/
 Source0:	http://www.vergenet.net/linux/fake/download/%{version}/%{name}-%{version}.tar.gz
 
+BuildRequires:	make
 %description
 Fake is a utility that enables the IP address be taken over
 by bringing up a second interface on the host machine and
